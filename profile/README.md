@@ -2,8 +2,10 @@
 
 Science alone doesn't create value. Productionizing, automating, and scaling it does.
 
-Guided by one operating principle —
-[Learn · Decide · Repeat](https://peisenha.github.io/operating-principles.html).
+[Philipp Eisenhauer](https://peisenha.github.io) works at the intersection of science,
+production engineering, and decision-making. His
+[operating principle](https://peisenha.github.io/operating-principles.html) —
+**Learn · Decide · Repeat** — drives everything built here.
 
 ### Impact Engine
 
